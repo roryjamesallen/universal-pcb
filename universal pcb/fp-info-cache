@@ -1,4 +1,4 @@
-20167088447211285
+20172047389004427
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -52255,6 +52255,13 @@ Switch Tactile Momentary C&K
 4
 4
 Eurorack
+Thonkiconn Dual
+
+
+0
+5
+5
+Eurorack
 Thonkiconn Mono Jack
 
 
@@ -52268,6 +52275,20 @@ Thonkiconn Stereo Jack
 0
 3
 3
+Eurorack
+Thonkiswitchpot
+
+
+0
+9
+8
+Eurorack
+Thonkiswitchpot Mirrored
+
+
+0
+9
+8
 Eurorack
 USB_A_Molex_67643_Horizontal
 USB type A, Horizontal, https://www.molex.com/pdm_docs/sd/676433910_sd.pdf
