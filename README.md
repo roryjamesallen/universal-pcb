@@ -6,7 +6,7 @@ Passive:
 - Attenuator
 - Switched Multiple
 - Passive Mute
-- Diode Distorion
+- Diode Distortion
 
 Active:
 
