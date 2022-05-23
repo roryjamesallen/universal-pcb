@@ -1,11 +1,15 @@
-## universal-pcb
-#Possible MiniModule Ideas list:
-#Passive:
+### universal-pcb
+Possible MiniModule Ideas list:
+
+Passive:
+
 - Attenuator
 - Switched Multiple
 - Passive Mute
 - Diode Distorion
-#Active:
+
+Active:
+
 - Buffered Multiple
 - Comparator
 - Attenuverter
