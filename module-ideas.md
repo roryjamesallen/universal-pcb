@@ -14,7 +14,7 @@ Active:
 
 - Buffered Multiple
 - Comparator
-- Attenuverter
+- Attenuverter (Chainable a la MI Shades)
 - OR/AND/NAND/XOR Gate
 - Colored (Pink, Blue, White) Noise
 - Sample/Track and Hold
