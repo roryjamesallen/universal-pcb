@@ -29,6 +29,7 @@ Active:
 - VCA
 - Unity Gain Mixer
 - Case Bridge
+- Sub-oscillator
 
 
 Important part source links:
