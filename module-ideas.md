@@ -14,7 +14,7 @@ Active:
 
 - Buffered Multiple
 - Comparator
-- Attenuverter
+- Attenuverter (Chainable a la MI Shades)
 - OR/AND/NAND/XOR Gate
 - Colored (Pink, Blue, White) Noise
 - Sample/Track and Hold
@@ -28,6 +28,8 @@ Active:
 - LPG
 - VCA
 - Unity Gain Mixer
+- Case Bridge
+- Sub-oscillator
 
 
 Important part source links:
