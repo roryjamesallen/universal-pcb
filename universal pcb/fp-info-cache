@@ -1,60 +1,4 @@
-20304940570201442
-AudioJacks
-Jack_3.5mm_Cliff_FCR1281_Horizontal
-
-
-0
-4
-4
-AudioJacks
-Jack_3.5mm_QingPu_WQP-PJ301BM_Vertical
-
-
-0
-4
-3
-AudioJacks
-Jack_3.5mm_QingPu_WQP-PJ301CM_Vertical
-
-
-0
-3
-3
-AudioJacks
-Jack_3.5mm_QingPu_WQP-PJ301M-12_Vertical
-
-
-0
-3
-3
-AudioJacks
-Jack_3.5mm_QingPu_WQP-PJ302M_Horizontal
-
-
-0
-3
-3
-AudioJacks
-Jack_3.5mm_QingPu_WQP-PJ366ST_Vertical
-T-R-S Vertical mounting jack AKA WQP-WQP419GR, Stereo Thonkiconn
-WQP-WQP419GR Thonkiconn
-0
-3
-3
-AudioJacks
-Jack_3.5mm_QingPu_WQP-PJ398SM_Vertical
-T-S-SN Vertical mount jack AKA WQP-WQP518MA or Thonkiconn
-WQP-WQP518MA, Thonkiconn
-0
-3
-3
-AudioJacks
-Jack_3.5mm_QingPu_WQP-PJ3410_Vertical
-
-
-0
-4
-4
+20173708138052976
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -52114,6 +52058,251 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+Eurorack
+Capacitor Small Non-Polarised
+
+
+0
+2
+2
+Eurorack
+Capacitor Small Polarised
+
+
+0
+2
+2
+Eurorack
+DIP-8 IC Socket
+
+
+0
+8
+8
+Eurorack
+DIP-14 IC Socket
+14-lead though-hole mounted DIP package, row spacing 7.62 mm (300 mils)
+THT DIP DIL PDIP 2.54mm 7.62mm 300mil
+0
+14
+14
+Eurorack
+Eurorack Power Header
+
+
+0
+10
+10
+Eurorack
+Eurorack Power Header 16 Pin
+
+
+0
+16
+16
+Eurorack
+Eurorack Power Header Unlabeled
+
+
+0
+10
+10
+Eurorack
+Eurorack Power Header Unlabeled Half
+
+
+0
+5
+5
+Eurorack
+Header 01x05 2.0mm Right Angle Female
+
+
+0
+5
+5
+Eurorack
+Header 01x05 2.0mm Right Angle Male
+
+
+0
+5
+5
+Eurorack
+Header 01x07 2.0mm Right Angle Female
+
+
+0
+7
+7
+Eurorack
+Header 01x07 2.0mm Right Angle Male
+
+
+0
+7
+7
+Eurorack
+Header 01x12 2.0mm Right Angle Female
+
+
+0
+12
+12
+Eurorack
+Header 01x12 2.0mm Right Angle Male
+
+
+0
+12
+12
+Eurorack
+LED 3mm
+
+
+0
+2
+2
+Eurorack
+Micro USB
+Micro USB Type B 10103594-0001LF, http://cdn.amphenol-icc.com/media/wysiwyg/files/drawing/10103594.pdf
+USB USB_B USB_micro USB_OTG
+0
+17
+6
+Eurorack
+OLED SSD1306 0.91
+
+
+0
+4
+4
+Eurorack
+PJ612A 6.35mm Jack
+
+
+0
+5
+5
+Eurorack
+Potentiometer 9mm Vertical Linear
+
+
+0
+3
+3
+Eurorack
+Potentiometer 9mm Vertical Linear Centred
+
+
+0
+3
+3
+Eurorack
+Potentiometer 45mm Slide Audio
+
+
+0
+10
+7
+Eurorack
+RGB LED
+
+
+0
+4
+4
+Eurorack
+Raspberry Pi Pico
+
+
+0
+40
+40
+Eurorack
+Resistor 0.25W Through-Hole
+
+
+0
+2
+2
+Eurorack
+Resistor 0.25W Through-Hole Short
+
+
+0
+2
+2
+Eurorack
+Schottky Diode
+Diode, DO-41_SOD81 series, Axial, Horizontal, pin pitch=7.62mm, , length*diameter=5.2*2.7mm^2, , http://www.diodes.com/_files/packages/DO-41%20(Plastic).pdf
+Diode DO-41_SOD81 series Axial Horizontal pin pitch 7.62mm  length 5.2mm diameter 2.7mm
+0
+2
+2
+Eurorack
+Sub-Miniature Toggle Switch DPDT
+
+
+0
+6
+6
+Eurorack
+Sub-Miniature Toggle Switch SPDT
+
+
+0
+3
+3
+Eurorack
+Switch Tactile Momentary C&K
+
+
+0
+4
+4
+Eurorack
+Thonkiconn Dual
+
+
+0
+11
+5
+Eurorack
+Thonkiconn Mono Jack
+
+
+0
+3
+3
+Eurorack
+Thonkiconn Stereo Jack
+
+
+0
+3
+3
+Eurorack
+Thonkiswitchpot
+
+
+0
+9
+8
+Eurorack
+Thonkiswitchpot Mirrored
+
+
+0
+9
+8
+Eurorack
+USB_A_Molex_67643_Horizontal
+USB type A, Horizontal, https://www.molex.com/pdm_docs/sd/676433910_sd.pdf
+USB_A Female Connector receptacle
+0
+6
+5
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -52982,104 +53171,6 @@ Fuse Fuseholder TR5 Littelfuse/Wickmann No. 460 No560
 0
 2
 2
-Graphics
-CC-BY-SA_Big
-
-
-0
-0
-0
-Graphics
-CC-BY-SA_Smol
-
-
-0
-0
-0
-Graphics
-CC-BY-SA_VerySmol
-
-
-0
-0
-0
-Graphics
-ToadStoolTechLogo
-
-
-0
-0
-0
-Graphics
-ToadStoolTechLogoInvert
-
-
-0
-0
-0
-Graphics
-ToadStoolTechSploop
-
-
-0
-0
-0
-Graphics
-ToadStoolTechSploopInvert
-
-
-0
-0
-0
-Graphics
-ToadStoolTechSploopSmol
-
-
-0
-0
-0
-Graphics
-ToadStoolTechWall
-
-
-0
-0
-0
-Graphics
-ToadStoolTechWallBig
-
-
-0
-0
-0
-Graphics
-ToadStoolTechWallBigInvert
-
-
-0
-0
-0
-Graphics
-ToadStoolTechWallBigger
-
-
-0
-0
-0
-Graphics
-ToadStoolTechWallBiggerInvert
-
-
-0
-0
-0
-Graphics
-ToadStoolTechWallInvert
-
-
-0
-0
-0
 Heatsink
 Heatsink_35x26mm_1xFixation3mm_Fischer-SK486-35
 Heatsink, 35mm x 26mm, 1x Fixation 3mm, Fischer SK486-35
@@ -56657,433 +56748,6 @@ solder jumper open
 0
 5
 3
-KraakenStuffLib-master
-Alpha Pot RV16AF-41
-
-
-0
-3
-3
-KraakenStuffLib-master
-DKA30
-
-
-0
-7
-7
-KraakenStuffLib-master
-D_0805_HandSoldering
-
-
-0
-2
-2
-KraakenStuffLib-master
-Diode_Bridge_18.5x5.5
-Single phase bridge rectifier case 18.5x5.5
-Diode Bridge
-0
-4
-4
-KraakenStuffLib-master
-EuroHeader10
-
-
-0
-10
-10
-KraakenStuffLib-master
-Fuseholder5x20_horiz_SemiClosed_Casing10x25mm
-Fuseholder, 5x20, Semi closed, horizontal, Casing 10x25mm,
-Fuseholder 5x20 Semi closed horizontal Casing 10x25mm Sicherungshalter halbgeschlossen 
-0
-2
-2
-KraakenStuffLib-master
-Header 3x3
-
-
-0
-9
-9
-KraakenStuffLib-master
-Header1x2
-
-
-0
-2
-2
-KraakenStuffLib-master
-Header1x3
-
-
-0
-3
-3
-KraakenStuffLib-master
-Header1x4
-
-
-0
-4
-4
-KraakenStuffLib-master
-Header1x5
-
-
-0
-5
-5
-KraakenStuffLib-master
-Header1x6
-
-
-0
-6
-6
-KraakenStuffLib-master
-Header1x7
-
-
-0
-7
-7
-KraakenStuffLib-master
-Header1x8
-
-
-0
-8
-8
-KraakenStuffLib-master
-Header1x9
-
-
-0
-9
-9
-KraakenStuffLib-master
-Header1x10
-
-
-0
-10
-10
-KraakenStuffLib-master
-Heatsink TO-220_25
-
-
-0
-2
-1
-KraakenStuffLib-master
-Klema 1x2 5mm
-
-
-0
-2
-2
-KraakenStuffLib-master
-Klema x2
-
-
-0
-2
-2
-KraakenStuffLib-master
-Klema x3
-
-
-0
-3
-3
-KraakenStuffLib-master
-Klema x4
-
-
-0
-4
-4
-KraakenStuffLib-master
-Klema x6
-
-
-0
-6
-6
-KraakenStuffLib-master
-Kraakenstuff
-
-
-0
-0
-0
-KraakenStuffLib-master
-Kraakenstuff_15mm
-
-
-0
-0
-0
-KraakenStuffLib-master
-Latching Push Button 5.8x5.8x14
-
-
-0
-6
-6
-KraakenStuffLib-master
-MeanWell RDDW20F
-
-
-0
-6
-6
-KraakenStuffLib-master
-MountingHole_3.2mm_M3_with_clearance
-Mounting Hole 3.2mm, no annular, M3
-mounting hole 3.2mm no annular m3
-0
-0
-0
-KraakenStuffLib-master
-PJ301M-12
-
-
-0
-3
-3
-KraakenStuffLib-master
-PJ301M-12-NoHole
-
-
-0
-4
-4
-KraakenStuffLib-master
-PJ366ST
-
-
-0
-3
-3
-KraakenStuffLib-master
-POT-9MM-ALPHA
-
-
-0
-5
-5
-KraakenStuffLib-master
-POT-9MM-ALPHA-DUAL
-
-
-0
-6
-6
-KraakenStuffLib-master
-POT-17MM-ALPHA
-
-
-0
-3
-3
-KraakenStuffLib-master
-POT-ALPHA-17mm
-
-
-0
-3
-3
-KraakenStuffLib-master
-PTA3043_Slider_Pot
-
-
-0
-3
-3
-KraakenStuffLib-master
-PTA4543_Slider_Pot
-
-
-0
-3
-3
-KraakenStuffLib-master
-PTL30
-
-
-0
-6
-6
-KraakenStuffLib-master
-Panel_Graphics_Pot_Arc_16mm
-
-
-0
-0
-0
-KraakenStuffLib-master
-Panel_Graphics_Trimmer_Arc_10mm
-
-
-0
-0
-0
-KraakenStuffLib-master
-Panel_LED_3.05mm
-Mounting Hole 6.4mm, no annular, M6
-mounting hole 6.4mm no annular m6
-0
-0
-0
-KraakenStuffLib-master
-Panel_Pot_7.1mm
-Mounting Hole 6.4mm, no annular, M6
-mounting hole 6.4mm no annular m6
-0
-0
-0
-KraakenStuffLib-master
-Panel_Screw_Elliptical
-
-
-0
-0
-0
-KraakenStuffLib-master
-Panel_Screw_Hole_2.6mm
-Mounting Hole 6.4mm, no annular, M6
-mounting hole 6.4mm no annular m6
-0
-0
-0
-KraakenStuffLib-master
-Panel_SubSwitch_4.9mm
-Mounting Hole 6.4mm, no annular, M6
-mounting hole 6.4mm no annular m6
-0
-0
-0
-KraakenStuffLib-master
-Panel_Thonkiconn_6mm
-Mounting Hole 6.4mm, no annular, M6
-mounting hole 6.4mm no annular m6
-0
-0
-0
-KraakenStuffLib-master
-Panel_Transparent_Pad_3mm
-
-
-0
-1
-0
-KraakenStuffLib-master
-Panel_Trimmer_6.7mm
-Mounting Hole 6.4mm, no annular, M6
-mounting hole 6.4mm no annular m6
-0
-0
-0
-KraakenStuffLib-master
-Perforacija
-
-
-0
-0
-0
-KraakenStuffLib-master
-PotSMD3305
-Potentiometer, horizontal, Bourns 3214J, https://www.bourns.com/docs/Product-Datasheets/3214.pdf
-Potentiometer horizontal Bourns 3214J
-0
-3
-3
-KraakenStuffLib-master
-SOIC-20_Pitch1.27mm
-16-Lead Plastic Small Outline (SL) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)
-SOIC 1.27
-0
-20
-20
-KraakenStuffLib-master
-SOIC127P600X175-16N
-
-
-0
-16
-16
-KraakenStuffLib-master
-SOT23-BCE
-TO-236 ITT Intermetall
-
-0
-3
-3
-KraakenStuffLib-master
-SOT23-BEC
-TO-236 ITT Intermetall
-
-0
-3
-3
-KraakenStuffLib-master
-SOT89-In-Gnd-Out
-SOT98 Basis Collector Emitter
-
-0
-3
-3
-KraakenStuffLib-master
-SubSwitch_DPDT
-
-
-0
-6
-6
-KraakenStuffLib-master
-SubSwitch_SPDT
-
-
-0
-3
-3
-KraakenStuffLib-master
-TO-5-8
-TO-5-8
-TO-5-8
-0
-8
-8
-KraakenStuffLib-master
-TO-220-3
-http://www.st.com/content/ccc/resource/technical/document/datasheet/f9/ed/f5/44/26/b9/43/a4/CD00000911.pdf/files/CD00000911.pdf/jcr:content/translations/en.CD00000911.pdf
-
-0
-3
-3
-KraakenStuffLib-master
-Terminal 2 contacts
-
-
-0
-2
-2
-KraakenStuffLib-master
-Toroidal transformer 220V 150VA 2x12V
-
-
-0
-6
-6
-KraakenStuffLib-master
-tssop-16
-
-
-0
-1
-1
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -77265,6 +76929,13 @@ WiFi IEEE802.11 b/g/n
 0
 44
 44
+RT6150B-33GQW
+RT6150B-33GQW
+
+
+0
+11
+11
 Relay_SMD
 Relay_2P2T_10x6mm_TE_IMxxG
 Signal Relay, 10x6mm, 2 Form C, Gull Wings, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F108-98001%7FZ.1%7Fpdf%7FEnglish%7FENG_DS_108-98001_Z.1.pdf
@@ -79176,69 +78847,6 @@ rotary encoder
 0
 5
 4
-SamacSys_Parts
-2MS1T1B3M2QES
-2MS1T1B3M2QES-1
-Switch
-0
-3
-3
-SamacSys_Parts
-DM06VTR
-DM-06-V-T/R-1
-Switch
-0
-12
-12
-SamacSys_Parts
-NCJ6FAV
-NCJ6FA-V-1
-Connector
-0
-10
-10
-SamacSys_Parts
-NE555DR
-D (R-PDSO-G8)
-Integrated Circuit
-0
-8
-8
-SamacSys_Parts
-NRJ6HM1
-NRJ6HM-1-1
-Connector
-0
-6
-6
-SamacSys_Parts
-PTL2010O0105B2
-PTL20-10O0-105B2-2
-Variable Resistor
-0
-6
-6
-SamacSys_Parts
-PTV1124220AB103
-PTV112-4220A-B103-2
-Variable Resistor
-0
-8
-8
-SamacSys_Parts
-SLB1470
-SLB1470-3
-Switch
-0
-6
-6
-SamacSys_Parts
-SPST Switch
-
-
-0
-3
-3
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -86246,178 +85854,10 @@ varistor SIOV
 0
 2
 2
-winterbloom
-DIODE_SOD-123_SOD-123F
-SOD-123
-SOD-123
-0
-2
-2
-winterbloom
-D_SOD-123
-SOD-123
-SOD-123
-0
-2
-2
-winterbloom
-D_SOD-323_HandSoldering
-SOD-323
-SOD-323
-0
-2
-2
-winterbloom
-Dotstar_5050
-http://cdn.sparkfun.com/datasheets/Components/LED/5060BRG4.pdf
-RGB LED 5050-6
-0
-6
-6
-winterbloom
-Eurorack_Power
-PLATED THROUGH HOLE - 2X5 SHROUDED HEADER LOCKING FOOTPRINT
-PLATED THROUGH HOLE - 2X5 SHROUDED HEADER LOCKING FOOTPRINT
-0
-10
-10
-winterbloom
-Extra_Long_Wiggly_Boi_25mm
+rp2040
+RP2040
 
 
 0
-0
-0
-winterbloom
-Extra_Long_Wiggly_Boi_40mm
-
-
-0
-0
-0
-winterbloom
-LED_0805_Kingbright_APT2012
-LED SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
-LED handsolder
-0
-2
-2
-winterbloom
-MAX9717B
-
-
-0
-9
-9
-winterbloom
-MountingHoleEurorackSlotM3
-Mounting Hole 3.2mm, no annular, M3
-mounting hole 3.2mm no annular m3
-0
-0
-0
-winterbloom
-MountingHole_M3_Skinny
-Mounting Hole 3.2mm, M3
-mounting hole 3.2mm m3
-0
-1
-1
-winterbloom
-Murata_PicoBK
-
-
-0
-16
-10
-winterbloom
-R0904N
-Potentiometer, vertical, 9mm, single, http://www.taiwanalpha.com.tw/downloads?target=products&id=113
-potentiometer vertical 9mm single
-0
-5
-3
-winterbloom
-Switch_DPDT_Thonk_DW4_2.54mm_pitch_5.08mm_spacing
-FS5700 series pushbutton footswitch, DPDT, https://www.e-switch.com/system/asset/product_line/data_sheet/226/FS5700.pdf
-switch DPDT footswitch
-0
-6
-6
-winterbloom
-TI-DGN-HVSSOP-8_3.0x3.0mm_P0.65mm
-VSSOP-8 3.0 x 3.0, http://www.ti.com/lit/ds/symlink/lm75b.pdf
-VSSOP-8 3.0 x 3.0
-0
-9
-9
-winterbloom
-TQFP-48_7x7mm_P0.5mm
-48 LEAD TQFP 7x7mm (see MICREL TQFP7x7-48LD-PL-1.pdf)
-QFP 0.5
-0
-48
-48
-winterbloom
-Tactile_Switch_4.2mm
-DESCRIPTION: STANDARD 4.2MM TACT SWITCH PACKAGE.BASED OFF C&K PTS 810 SERIES TACT SWITCH.
-DESCRIPTION: STANDARD 4.2MM TACT SWITCH PACKAGE.BASED OFF C&K PTS 810 SERIES TACT SWITCH.
-0
-4
-2
-winterbloom
-Tactile_Switch_6mm
-https://www.omron.com/ecb/products/pdf/en-b3f.pdf
-tact sw push 6mm
-0
-4
-2
-winterbloom
-Tag_Connect_TC2030NL
-Tag-Connect programming header; http://www.tag-connect.com/Materials/TC2030-IDC-NL.pdf
-tag connect programming header pogo pins
-0
-6
-6
-winterbloom
-USB_B_Micro_Receptacle
-DESCRIPTION: PACKAGE FOR MICRO USB TYPE B CONNECTOR. BASED ON FCI 10118193-0001LF.
-DESCRIPTION: PACKAGE FOR MICRO USB TYPE B CONNECTOR. BASED ON FCI 10118193-0001LF.
-0
-11
-11
-winterbloom
-USB_B_Receptacle
-http://www.mouser.com/ds/2/418/NG_CD_5787834_A4-669110.pdf
-USB_B USB B vertical female connector
-0
-6
-5
-winterbloom
-WQP-WQP518MA
-
-
-0
-3
-3
-winterbloom
-WQP-WQP518MA-skinny
-
-
-0
-3
-3
-winterbloom
-ce_5mm
-
-
-0
-0
-0
-winterbloom
-ermine
-
-
-0
-0
-0
+57
+57
