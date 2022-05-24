@@ -26,3 +26,8 @@ Active:
 - LPG
 - VCA
 - Unity Gain Mixer
+
+
+Important part source links:
+- [SMD RGB LEDs](https://www.mouser.co.uk/ProductDetail/Broadcom-Avago/ASMB-KTF0-0A306?qs=j%252B1pi9TdxUYIaJsf%252B0lh6A%3D%3D)
+- [Lightpipes](https://www.mouser.co.uk/ProductDetail/VCC/LFB025CTP?qs=Y3Q3JoKAO1Qlf8k7PRt5Rg%3D%3D) 
