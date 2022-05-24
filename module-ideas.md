@@ -1,5 +1,6 @@
 # MiniModule Ideas
 
+Note: a [^^] next to an idea means it has been started.
 
 Passive:
 
@@ -12,9 +13,9 @@ Passive:
 
 Active:
 
-- Buffered Multiple
+- Buffered Multiple [^^]
 - Comparator
-- Attenuverter (Chainable a la MI Shades)
+- Attenuverter (Chainable a la MI Shades) [^^]
 - OR/AND/NAND/XOR Gate
 - Colored (Pink, Blue, White) Noise
 - Sample/Track and Hold
@@ -27,7 +28,7 @@ Active:
 - AR/AD Envelope Generator
 - LPG
 - VCA
-- Unity Gain Mixer
+- Unity Gain Mixer [^^]
 - Case Bridge
 - Sub-oscillator
 
