@@ -28,6 +28,7 @@ Active:
 - LPG
 - VCA
 - Unity Gain Mixer
+- Case Bridge
 
 
 Important part source links:
