@@ -10,6 +10,7 @@ Passive:
 - Diode Distortion
 - Patchbay
 - JST Connector (to send jack signals to board jacks)
+- Protoboard [^^]
 
 Active:
 
