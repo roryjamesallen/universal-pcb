@@ -68,9 +68,9 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "")
+      (outputdirectory "gerber/")
     )
   )
 
@@ -1224,7 +1224,6 @@
   (gr_text "z" (at 56.6 10) (layer "User.2") (tstamp fdbd849e-b58b-416c-a966-eabb364ba038)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (target plus (at 0 0) (size 5) (width 0.1) (layer "Edge.Cuts") (tstamp 633bd50a-eb1a-4125-8222-687637b71a4d))
 
   (segment (start 3.095 5.055) (end 1.425 5.055) (width 0.25) (layer "F.Cu") (net 0) (tstamp 03a8fdb9-039a-4c0e-925e-d19cb6e70c6b))
   (segment (start 27.97 20.9) (end 18.2 20.9) (width 0.25) (layer "F.Cu") (net 0) (tstamp 0d09fcbc-67dc-44bc-8c57-0e6166c94f23))

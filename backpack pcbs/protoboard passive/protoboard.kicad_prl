@@ -33,7 +33,6 @@
       3,
       4,
       5,
-      8,
       9,
       10,
       11,
@@ -61,11 +60,11 @@
       35,
       36
     ],
-    "visible_layers": "fecffff_ffffffff",
+    "visible_layers": "ffcffff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "universal pcb.kicad_prl",
+    "filename": "protoboard.kicad_prl",
     "version": 3
   },
   "project": {
